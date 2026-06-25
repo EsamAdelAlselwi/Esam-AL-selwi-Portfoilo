@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "id": "R_kgDORyrTWg",
+      "name": "Consumer Complaint Intelligence Platform",
+      "createdAt": "2026-03-27T19:50:57Z",
+      "url": "https://github.com/EsamAdelAlselwi/consumer-complaint-intelligence",
+      "description": "End-to-end analytics platform processing real CFPB consumer complaint data. Integrates NLP and demographic analysis to identify high-risk financial products, response efficiency gaps, and compliance risk indicators through an interactive real-time dashboard.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "NLP", "iconifyClass": "simple-icons:spacy" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDORyrTig",
+      "name": "Crypto-Sentiment Correlation Engine",
+      "createdAt": "2026-03-27T19:50:59Z",
+      "url": "https://github.com/EsamAdelAlselwi/crypto-sentiment-correlation",
+      "description": "Advanced analytical engine correlating Bitcoin price data with macroeconomic sentiment indicators. Engineers a weighted sentiment index using CoinGecko and yfinance APIs, time-series analysis, and Plotly visualizations to quantify market behavior and predict volatility.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Jupyter", "iconifyClass": "logos-jupyter" },
+        { "name": "Plotly", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDORuxeow",
+      "name": "Global Talent Mobility Index",
+      "createdAt": "2026-03-23T19:18:25Z",
+      "url": "https://github.com/EsamAdelAlselwi/Global-Talent-Mobility-Index",
+      "description": "Production-grade data science engine quantifying global talent attractiveness using World Bank API indicators. Applies weighted composite indexing and interactive geospatial Plotly visualizations to reveal innovation capacity, educational infrastructure, and economic stability patterns across countries.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Plotly", "iconifyClass": "logos-html-5" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDObcgX1",
+      "name": "British Airways Customer Analytics",
+      "createdAt": "2026-04-15T12:00:00Z",
+      "url": "https://github.com/EsamAdelAlselwi/british-airways-customer-analytics",
+      "description": "Comprehensive data analytics and predictive modeling project for British Airways. Performs web scraping of 1,000+ Skytrax reviews, sentiment analysis, passenger segmentation hypothesis design, and Random Forest classification to predict customer booking completion with actionable business recommendations.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Scikit-learn", "iconifyClass": "logos-jupyter" },
+        { "name": "Jupyter", "iconifyClass": "logos-jupyter" }
+      ]
+    },
+    {
+      "id": "R_kgDORyrTUA",
+      "name": "Tech Momentum Radar",
+      "createdAt": "2026-03-27T19:50:55Z",
+      "url": "https://github.com/EsamAdelAlselwi/tech-momentum-radar",
+      "description": "Data-driven intelligence tool identifying emerging technology momentum by correlating Google Search Trends with GitHub open-source activity. Uses time-series forecasting and K-Means clustering to classify technologies into lifecycle stages, providing actionable R&D investment insights.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Plotly/Dash", "iconifyClass": "logos-html-5" },
+        { "name": "HTML", "iconifyClass": "logos-html-5" }
+      ]
+    },
+    {
+      "id": "R_kgDOPowerco",
+      "name": "PowerCo Churn Prediction",
+      "createdAt": "2026-04-10T12:00:00Z",
+      "url": "https://github.com/EsamAdelAlselwi/powerco-churn-prediction",
+      "description": "Comprehensive data science project predicting SME customer churn for PowerCo energy company. Applies EDA across 14,000+ client records, feature engineering on pricing datasets, and Random Forest Classifier to identify at-risk customers, with strategic retention recommendations for BCG consulting.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Scikit-learn", "iconifyClass": "logos-jupyter" },
+        { "name": "Jupyter", "iconifyClass": "logos-jupyter" }
+      ]
+    },
+    {
+      "id": "R_kgDORRsdiA",
+      "name": "E-Commerce Platform (PHP MVC)",
+      "createdAt": "2026-02-16T17:31:27Z",
+      "url": "https://github.com/EsamAdelAlselwi/E-Commerce-Project",
+      "description": "Full-stack e-commerce web application built with PHP 8.x and a custom MVC architecture. Features complete shopping cart, admin dashboard, order management, user authentication, CSRF protection, and PDO prepared statements for SQL injection prevention.",
+      "isFork": false,
+      "languages": [
+        { "name": "PHP", "iconifyClass": "logos-php" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "MySQL", "iconifyClass": "logos-mysql" }
+      ]
+    },
+    {
+      "id": "R_kgDOAesVault",
+      "name": "AES-Vault — Cryptography Showcase",
+      "createdAt": "2025-12-01T12:00:00Z",
+      "url": "https://github.com/EsamAdelAlselwi/AES-Vault",
+      "description": "Secure web application demonstrating modern and legacy encryption standards (AES-256, 3DES, DES). Built with Python and Streamlit, featuring user authentication, encrypted data storage in MySQL, and side-by-side comparisons of cryptographic algorithm performance and security properties.",
+      "isFork": false,
+      "languages": [
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Streamlit", "iconifyClass": "logos-python" },
+        { "name": "MySQL", "iconifyClass": "logos-mysql" }
+      ]
+    }
+  ]
+}
