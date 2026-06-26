@@ -74,8 +74,11 @@
     text-align: center;
   }
   .greeting-nickname {
-    font-size: 25px;
+    font-size: clamp(1.6rem, 7vw, 2.6rem);
+    line-height: 1.2;
     text-align: center;
+    padding: 0px 16px;
+
   }
   .greeting-text-p {
     font-size: 16px;
