@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class CloudInfraImg extends Component {
   render() {
-    const theme = this.props.theme;
+    // const theme = this.props.theme;
     return (
       <svg xmlns="http://www.w3.org/2000/svg" width="800" height="524.284" viewBox="0 0 800 524.284" role="img" artist="Katerina Limpitsouni" source="https://undraw.co/">
         <g transform="translate(-1037.424 -460)">

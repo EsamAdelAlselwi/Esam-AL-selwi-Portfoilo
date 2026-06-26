@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Database extends Component {
     render() {
         
-        const theme = this.props.theme;
+        // const theme = this.props.theme;
         return (
             <svg xmlns="http://www.w3.org/2000/svg" width="800.729" height="636.017" viewBox="0 0 800.729 636.017" role="img" artist="Katerina Limpitsouni" source="https://undraw.co/">
                 <g transform="translate(-645.964 -128.091)">

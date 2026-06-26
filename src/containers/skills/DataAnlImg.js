@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class DataAnlImg extends Component {
     render() {
         
-        const theme = this.props.theme;
+        // const theme = this.props.theme;
         return (
             <svg xmlns="http://www.w3.org/2000/svg" width="799.913" height="621.194" viewBox="0 0 799.913 621.194" role="img" artist="Katerina Limpitsouni" source="https://undraw.co/">
                 <g transform="translate(-336.178 -52.593)">

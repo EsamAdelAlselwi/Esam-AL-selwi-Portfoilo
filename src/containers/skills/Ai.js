@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Ai extends Component {
     render() {
         
-        const theme = this.props.theme;
+        // const theme = this.props.theme;
         return (
             <svg xmlns="http://www.w3.org/2000/svg" width="800" height="450.122" viewBox="0 0 800 450.122" role="img" artist="Katerina Limpitsouni" source="https://undraw.co/">
                 <defs>
