@@ -250,4 +250,4 @@ export const violetNoirTheme = {
 };
 
 
-export const chosenTheme = violetTheme;
+export const chosenTheme = materialLightTheme;
