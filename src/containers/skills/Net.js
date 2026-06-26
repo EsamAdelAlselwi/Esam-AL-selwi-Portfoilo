@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class Net extends Component {
     render() {
-        const theme = this.props.theme;
+        // const theme = this.props.theme;
         return (
             <svg xmlns="http://www.w3.org/2000/svg" width="800.867" height="554.305" viewBox="0 0 800.867 554.305"  role="img" artist="Katerina Limpitsouni" source="https://undraw.co/">
                 <g transform="translate(-333 -245)">
