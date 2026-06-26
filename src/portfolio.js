@@ -413,7 +413,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "british_airways_logo.png",
       certificate_link:
-        "https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_69e3ef319bee8f600f96af54_1780854841471_co",
+       "https://drive.google.com/file/d/1YbaV49gpN2l83O-ryBlX77ysxqCFGKC5/view?usp=drivesdk",
       alt_name: "British Airways",
       color_code: "#ffff",
     },
@@ -422,7 +422,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "bcg_logo.png",
       certificate_link:
-        "https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Tcz8gTtprzAS4xSoK_SKZxezskWgmFjRvj9_69e3ef319bee8f600f96af54_1780594939191_co",
+       "https://drive.google.com/file/d/1YTQiWpB4Z8GgVZaUko9n8qoHyD5x3NvC/view?usp=drivesdk",
       alt_name: "BCG X",
       color_code: "#ffff"
 
@@ -433,7 +433,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "quantium_logo.jpg",
       certificate_link:
-        "https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_69e3ef319bee8f600f96af54_1778616408566_co",
+       "https://drive.google.com/file/d/1YkKstsg-1z7jb4c8_OgD0MJS814TrNrz/view?usp=drivesdk ",
       alt_name: "Quantium",
       color_code: "#ffff",
     },
@@ -442,7 +442,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "bcg_logo.png",
       certificate_link:
-        "https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_69e3ef319bee8f600f96af54_1779735733427_co",
+       "https://drive.google.com/file/d/1YaX_Ngbx1p51oMUWtKMeeV-9B7ATDxVu/view?usp=drivesdk",
       alt_name: "BCG X",
        color_code: "#fffdfdff"
 
@@ -452,7 +452,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "tata_logo.png",
       certificate_link:
-       "https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_69e3ef319bee8f600f96af54_1778952527842_co",
+       "https://drive.google.com/file/d/1YpQ2cI7sGsTffuwK8ZSp5knp2IlYIFoF/view?usp=drivesdk ",
       alt_name: "Tata Group",
       color_code: "#ffff",
     },
@@ -461,7 +461,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "deloitte_logo.jpg",
       certificate_link:
-        "https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69e3ef319bee8f600f96af54_1778696682195_co",
+       "https://drive.google.com/file/d/1YgtkuYoOeijMpoXoHTgEV-JNgpE4oiNy/view?usp=drivesdk",
       color_code: "#ffffffff",
     },
     {
@@ -469,7 +469,7 @@ const certifications = {
       subtitle: "Forage Job Simulation",
       logo_path: "datacom_logo.png",
       certificate_link:
-       "https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/Nw3MzxF2wjmki7Qor_gCW7Xki5Y3vNpBmnn_69e3ef319bee8f600f96af54_1779823685185_co",
+       "https://drive.google.com/file/d/1YglWsXsRcS3uoSOb0ra8hs_mMa7NknVt/view?usp=drivesdk",
       alt_name: "Datacom",
       color_code: "#ffff",
     },
