@@ -62,7 +62,7 @@ const socialMediaLinks = [
   {
     name: "X-Twitter",
     link: "https://x.com/Peek_Speak",
-    fontAwesomeIcon: "fa-x-twitter",
+    fontAwesomeIcon: "fa-brands fa-x-twitter",
     backgroundColor: "#000000",
   },
   {
