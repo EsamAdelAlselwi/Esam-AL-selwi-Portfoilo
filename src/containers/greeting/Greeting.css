@@ -63,6 +63,14 @@
   .greeting-text-p {
     font-size: 20px;
   }
+   .greeting-nickname {
+    font-size: clamp(1.6rem, 7vw, 2.6rem);
+    line-height: 1.2;
+    text-align: center;
+    padding: 0px 16px;
+
+  }
+  
 }
 @media (max-width: 768px) {
   .button-greeting-div {
