@@ -197,38 +197,38 @@ export const materialTealTheme = {
 
 // ============================================================
 // 1. الثيم الليلي الملكي – Midnight Sovereign
-//    فخامة البيانات في أبهى صورها: أزرق داكن مع ذهب عتيق
+//    فخامة البيانات: أزرق داكن مع ذهب عتيق
 // ============================================================
 export const midnightSovereignTheme = {
-  body: "#0B0F1A", // خلفية زرقاء داكنة جداً (سواد ليلي مخملي)
-  text: "#E8DCC8", // نصوص كريمية دافئة (تذكرنا بالرقّ القديم)
-  expTxtColor: "#C9B28A", // نصوص الخبرات بلون ذهبي هادئ
-  highlight: "#D4AF37", // اللون البارز: ذهب خالص (فخامة مطلقة)
-  dark: "#05080F", // أغمق درجة للخلفية
-  secondaryText: "#8A7A5A", // نصوص ثانوية بلون ذهبي باهت
-  imageHighlight: "#D4AF37", // تظليل الصور بالذهب
-  compImgHighlight: "#1A1F2E", // خلفية مكونات الصور
-  jacketColor: "#C9A84C", // أزرار الـ Jacket بلون ذهبي
-  headerColor: "#D4AF3733", // شفافية ذهبية للهيدر
-  splashBg: "#0B0F1A", // خلفية شاشة البداية
+  body: "#0B0F1A",
+  text: "#E8DCC8",
+  expTxtColor: "#C9B28A",
+  highlight: "#D4AF37",
+  dark: "#05080F",
+  secondaryText: "#8A7A5A",
+  imageHighlight: "#D4AF37",
+  compImgHighlight: "#1A1F2E",
+  jacketColor: "#C9A84C",
+  headerColor: "#D4AF3733",
+  splashBg: "#0B0F1A",
 };
 
 // ============================================================
 // 2. الثيم البلوري البلاتيني – Crystal Platinum
-//    نقاء البيانات مع لمسات من البلّاتين والياقوت الأزرق
+//    نقاء البيانات: فضي بلاتيني مع ياقوت أزرق
 // ============================================================
 export const crystalPlatinumTheme = {
-  body: "#F9F7F2", // خلفية بيضاء دافئة (فخامة النقاء)
-  text: "#141824", // نصوص زرقاء داكنة عميقة (ثقة واحترافية)
-  expTxtColor: "#2A2F45", // نصوص الخبرات بلون نيلي غامق
-  highlight: "#3D5A80", // اللون البارز: ياقوت أزرق ساحر
-  dark: "#0A0D18", // أغمق درجة للخلفية
-  secondaryText: "#5A6A8A", // نصوص ثانوية بنيلي هادئ
-  imageHighlight: "#C0C8D8", // تظليل الصور بلمسات بلاتينية
-  compImgHighlight: "#E8EAF0", // خلفية مكونات الصور بلون فضي ناعم
-  jacketColor: "#1A2A4A", // أزرار الـ Jacket بنيلي عميق
-  headerColor: "#3D5A8033", // شفافية ياقوتية للهيدر
-  splashBg: "#141824", // خلفية شاشة البداية
+  body: "#F9F7F2",
+  text: "#141824",
+  expTxtColor: "#2A2F45",
+  highlight: "#3D5A80",
+  dark: "#0A0D18",
+  secondaryText: "#5A6A8A",
+  imageHighlight: "#C0C8D8",
+  compImgHighlight: "#E8EAF0",
+  jacketColor: "#1A2A4A",
+  headerColor: "#3D5A8033",
+  splashBg: "#141824",
 };
 
 // ============================================================
@@ -236,18 +236,143 @@ export const crystalPlatinumTheme = {
 //    ذكاء اصطناعي فاخر: بنفسجي غامق مع وردة ذهبية
 // ============================================================
 export const violetNoirTheme = {
-  body: "#100B1A", // خلفية بنفسجية سوداء (غموض وفخامة)
-  text: "#F0E6F5", // نصوص لافندرية ناعمة (أناقة عالية)
-  expTxtColor: "#C4A8D0", // نصوص الخبرات بلون بنفسجي باهت
-  highlight: "#E8A87C", // اللون البارز: وردة ذهبية (روز جولد)
-  dark: "#08050D", // أغمق درجة للخلفية
-  secondaryText: "#8A7A9A", // نصوص ثانوية بلون بنفسجي رمادي
-  imageHighlight: "#C77DFF", // تظليل الصور ببنفسجي نابض بالحياة
-  compImgHighlight: "#1A1428", // خلفية مكونات الصور
-  jacketColor: "#E8A87C", // أزرار الـ Jacket بلون الوردة الذهبية
-  headerColor: "#E8A87C33", // شفافية وردية ذهبية للهيدر
-  splashBg: "#100B1A", // خلفية شاشة البداية
+  body: "#100B1A",
+  text: "#F0E6F5",
+  expTxtColor: "#C4A8D0",
+  highlight: "#E8A87C",
+  dark: "#08050D",
+  secondaryText: "#8A7A9A",
+  imageHighlight: "#C77DFF",
+  compImgHighlight: "#1A1428",
+  jacketColor: "#E8A87C",
+  headerColor: "#E8A87C33",
+  splashBg: "#100B1A",
 };
 
+// ============================================================
+// 4. ثيم مصفوفة الزمرد – Emerald Matrix
+//    تقنية متقدمة: أسود كربوني مع أخضر زمردي مشع
+// ============================================================
+export const emeraldMatrixTheme = {
+  body: "#0D1117",
+  text: "#C9D1D9",
+  expTxtColor: "#8B949E",
+  highlight: "#2EA043",
+  dark: "#010409",
+  secondaryText: "#58A6FF",
+  imageHighlight: "#3FB950",
+  compImgHighlight: "#161B22",
+  jacketColor: "#238636",
+  headerColor: "#2EA04333",
+  splashBg: "#0D1117",
+};
 
-export const chosenTheme = materialLightTheme;
+// ============================================================
+// 5. ثيم الحمم البركانية السوداء – Obsidian Lava
+//    قوة البيانات: أسود أوبسيديان مع برتقالي ناري
+// ============================================================
+export const obsidianLavaTheme = {
+  body: "#1A1A1B",
+  text: "#D7DADC",
+  expTxtColor: "#818384",
+  highlight: "#FF4500",
+  dark: "#030303",
+  secondaryText: "#D7DADC",
+  imageHighlight: "#FF585B",
+  compImgHighlight: "#272729",
+  jacketColor: "#FF4500",
+  headerColor: "#FF450033",
+  splashBg: "#1A1A1B",
+};
+
+// ============================================================
+// 6. ثيم الرمال الملكية – Royal Sandstone
+//    أناقة كلاسيكية: بيج رملي مع أزرق ملكي
+// ============================================================
+export const royalSandstoneTheme = {
+  body: "#FDF5E6",
+  text: "#2F4F4F",
+  expTxtColor: "#483D8B",
+  highlight: "#4169E1",
+  dark: "#191970",
+  secondaryText: "#708090",
+  imageHighlight: "#6495ED",
+  compImgHighlight: "#FFF8DC",
+  jacketColor: "#000080",
+  headerColor: "#4169E133",
+  splashBg: "#FDF5E6",
+};
+
+// ============================================================
+// 7. ثيم الذكاء السيبراني – Cyber Intelligence
+//    مستقبلي: رمادي حديدي مع أزرق سياني كهربائي
+// ============================================================
+export const cyberIntelligenceTheme = {
+  body: "#202124",
+  text: "#E8EAED",
+  expTxtColor: "#9AA0A6",
+  highlight: "#8AB4F8",
+  dark: "#171717",
+  secondaryText: "#BDC1C6",
+  imageHighlight: "#4285F4",
+  compImgHighlight: "#303134",
+  jacketColor: "#1A73E8",
+  headerColor: "#8AB4F833",
+  splashBg: "#202124",
+};
+
+// ============================================================
+// 8. ثيم الغسق الأرجواني – Deep Dusk Purple
+//    هدوء وعمق: أرجواني عميق مع لمسات من الفضة
+// ============================================================
+export const deepDuskPurpleTheme = {
+  body: "#2D1B33",
+  text: "#F3E5F5",
+  expTxtColor: "#CE93D8",
+  highlight: "#BA68C8",
+  dark: "#1A0F1E",
+  secondaryText: "#E1BEE7",
+  imageHighlight: "#AB47BC",
+  compImgHighlight: "#3D2645",
+  jacketColor: "#8E24AA",
+  headerColor: "#BA68C833",
+  splashBg: "#2D1B33",
+};
+
+// ============================================================
+// 9. ثيم الجرافيت الذهبي – Golden Graphite
+//    فخامة عصرية: رمادي جرافيت مع ذهب مصقول
+// ============================================================
+export const goldenGraphiteTheme = {
+  body: "#3C3C3C",
+  text: "#FFFFFF",
+  expTxtColor: "#D4AF37",
+  highlight: "#FFD700",
+  dark: "#1A1A1A",
+  secondaryText: "#E5E5E5",
+  imageHighlight: "#DAA520",
+  compImgHighlight: "#4A4A4A",
+  jacketColor: "#B8860B",
+  headerColor: "#FFD70033",
+  splashBg: "#3C3C3C",
+};
+
+// ============================================================
+// 10. ثيم المحيط المظلم – Deep Ocean Mystery
+//    غموض واحترافية: أزرق بحري عميق مع فيروزي مشع
+// ============================================================
+export const deepOceanMysteryTheme = {
+  body: "#001219",
+  text: "#E9D8A6",
+  expTxtColor: "#94D2BD",
+  highlight: "#EE9B00",
+  dark: "#000000",
+  secondaryText: "#005F73",
+  imageHighlight: "#0A9396",
+  compImgHighlight: "#001E29",
+  jacketColor: "#CA6702",
+  headerColor: "#EE9B0033",
+  splashBg: "#001219",
+};
+
+export const chosenTheme = tealTheme;

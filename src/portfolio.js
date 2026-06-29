@@ -370,7 +370,7 @@ const certifications = {
       certificate_link:
         "https://confirm.udacity.com/e/b2a8b2a2-35f9-11f1-ac9e-c310ac023065",
       alt_name: "AWS & Udacity",
-      color_code: "#857272c7",
+      color_code: "#ffff",
     },
     {
       title: "Claude API Development",
@@ -379,7 +379,7 @@ const certifications = {
       certificate_link:
        "http://verify.skilljar.com/c/omy7bv8cxjnx",
       alt_name: "Anthropic",
-      color_code: "#CC9B0099",
+      color_code: "#f9f6f6fd",
     },
     {
       title: "Claude 101",
@@ -388,7 +388,7 @@ const certifications = {
       certificate_link:
         "http://verify.skilljar.com/c/bxqfd2rtjsgr",
       alt_name: "Anthropic",
-      color_code: "#CC9B0099",
+      color_code: "#f9f6f6fd",
     },
     {
       title: "MCP Protocol (Advanced)",
@@ -397,7 +397,7 @@ const certifications = {
       certificate_link:
         "http://verify.skilljar.com/c/u29nyg5qggoj",
       alt_name: "Anthropic",
-      color_code: "#1D3A4099",
+      color_code: "#f9f6f6fd",
     },
     {
       title: "Claude with Google Cloud's Vertex AI ",
@@ -406,7 +406,7 @@ const certifications = {
       certificate_link:
         "https://verify.skilljar.com/c/j7h9qk68z49j",
       alt_name: "Anthropic",
-      color_code: "#2D2D2D99",
+      color_code: "#f9f6f6fd",
     },
     {
       title: "British Airways — Data Science",
