@@ -524,8 +524,9 @@ const experience = {
           duration: "2026",
           location: "Remote Simulation",
           description:
-            "Web-scraped and analyzed 1,000+ Skytrax customer reviews using BeautifulSoup. Performed sentiment analysis and built a Random Forest classifier to predict customer booking behavior. Delivered executive-ready slides with actionable business insights.",
-          color: "#003C88",
+             "Developed a strategic data model to forecast lounge demand at Heathrow Terminal 3 by analyzing customer eligibility criteria and creating a reusable lookup table to support future flight scheduling. Built and evaluated a machine learning classification model to identify potential holiday travelers, addressing class imbalance using SMOTE to improve recall and support customer acquisition strategies.",
+           color: "#003C88",
+            
         },
         {
           title: "Data Scientist — Churn Prediction",
